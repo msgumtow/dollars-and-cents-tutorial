@@ -9,6 +9,7 @@
  * 
  * Forever, the microbit will show the total amount of dollars + cents.
  */
+let dollars = 0
 basic.forever(function () {
 	
 })
